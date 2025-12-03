@@ -86,7 +86,7 @@ Ensure Project SDK = Java 17 or above
 
 Open Main.java → Click the green Run ▶ button.
 
-### 👥 Default Test Users
+###  Default Test Users
 
 You can log in using:
 
@@ -97,7 +97,7 @@ asha	9999
 
 Each user has a separate account number, balance, and transaction history.
 
-### 📌 Sample Operations
+###  Sample Operations
 
 Login → deposit ₹2000 → withdraw ₹1000 → transfer → view history
 
@@ -107,7 +107,7 @@ Error messages for insufficient balance
 
 Secure login using encrypted PIN checks
 
-## 🎯 Learning Goals
+##  Learning Goals
 
 This project helps practice:
 
