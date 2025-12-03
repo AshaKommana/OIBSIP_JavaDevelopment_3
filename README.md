@@ -42,12 +42,19 @@ Error handling for invalid inputs
 Clean modular code using multiple classes
 
 ## 🗂 Project Structure
+
 ATM-Interface/
+
  ├── Main.java             # Entry point
+ 
  ├── ATM.java              # Menu + ATM functions
+ 
  ├── User.java             # User details + encrypted PIN
+ 
  ├── BankAccount.java      # Balance, transactions, account number
+ 
  ├── ConsoleColors.java    # ANSI color codes for styling
+ 
  └── Transaction.java      # (Optional) Transaction message class
 
 ## Technologies Used
