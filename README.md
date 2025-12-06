@@ -1,4 +1,4 @@
-# 🏦 ATM Interface
+# ATM Interface
 
 The ATM Interface is a console-based Java application that simulates basic ATM functionalities such as withdrawing, depositing, transferring funds, and viewing transaction history.
 This project follows clean Object-Oriented Programming (OOP) principles and includes enhanced UI elements, encrypted security, and multi-user support.
