@@ -107,18 +107,4 @@ Error messages for insufficient balance
 
 Secure login using encrypted PIN checks
 
-##  Learning Goals
 
-This project helps practice:
-
-Java console application development
-
-Working with classes, objects, and methods
-
-Handling user input & validation
-
-Implementing security (encryption)
-
-Managing lists, loops, and error handling
-
-Creating clean modular code
